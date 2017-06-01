@@ -55,3 +55,4 @@ import matplotlib.pyplot as plt
 from skimage import io,color
 
 
+#Migue duerme y Jhon ronca
